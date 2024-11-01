@@ -162,5 +162,5 @@ func Calc(expression string) (float64, error) {
 }
 
 func main() {
-	fmt.Println(Calc("1+1"))
+	fmt.Println(Calc("1+2"))
 }
